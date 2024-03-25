@@ -1,4 +1,4 @@
-Create a Code Book for .xls* / *.xla Projects with  
+Create a Code Book for .xls* / .xla* Projects with  
 
 - Cover page
 - Table of Contents
