@@ -1,7 +1,12 @@
-Export vba code with selected color scheme, code blocks linked and table of contents.  
-Code placed in 1 or multiple columns by indentation (1 column prints better).  
-Code formatting (indentation, comment and blank lines removal, long line folding).  
-After checking all is well you can export to PDF.  
+Create a Code Book for .xls* / *.xla Projects with  
+
+- Cover page
+- Table of Contents
+- Coloured keywords
+- Linked Code Blocks
+- Footers
+
+When Code Listing is ready, print to PDF manually.   
 
 Example output:  
 
